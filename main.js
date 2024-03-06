@@ -47,7 +47,7 @@ const songs = [
   },
   {
     title: "Delicate",
-    name: "Eli Barxhanit",
+    name: "Eli Barxhani",
     source:
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
   },
